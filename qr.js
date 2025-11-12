@@ -98,7 +98,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "ᴍᴀʟᴠɪɴ-xᴅ 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉",
-thumbnailUrl: "https://files.catbox.moe/bqs70b.jpg",
+thumbnailUrl: "https://github.com/Thenukadilitha/malvin-pair/blob/main/images/Asset%203.png?raw=true",
 sourceUrl: "https://chat.whatsapp.com/JfWrUif5dgM67S2Crvq6PY ",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -123,7 +123,7 @@ https://chat.whatsapp.com/JfWrUif5dgM67S2Crvq6PY
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/XdKing2/THENUKA-XD
+https://github.com/Thenukadilitha
 
 > *© Powered by THENUKA King*
 Stay cool and hack smart. ✌🏻*`;
@@ -131,8 +131,8 @@ Stay cool and hack smart. ✌🏻*`;
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ✅  ",
-thumbnailUrl: "https://files.catbox.moe/bqs70b.jpg",
+title: "THENUKABOT 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ✅  ",
+thumbnailUrl: "https://github.com/Thenukadilitha/malvin-pair/blob/main/images/Asset%203.png?raw=true",
 sourceUrl: "https://chat.whatsapp.com/JfWrUif5dgM67S2Crvq6PY ",
 mediaType: 2,
 renderLargerThumbnail: true,
